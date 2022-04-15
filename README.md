@@ -1,8 +1,14 @@
 # Fora
 
+Hej Albin!
+
+Main-branch är den du kan rätta ifall det finns andra branches.
+
 Du kan logga in som admin med:
 - Username: admin
 - Password: admin
+
+Dom andra användarnas uppgifter kan du hitta i Server.UserDbContext.
 
 # Database
 
